@@ -363,7 +363,7 @@ body {
 
   padding: 8px;
 
-  animation: rotateRing 10s linear infinite;
+  animation: rotateRing 0s linear infinite;
 }
 
 .profile-card {
